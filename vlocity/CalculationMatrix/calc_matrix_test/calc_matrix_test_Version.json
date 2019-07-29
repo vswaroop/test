@@ -1,0 +1,20 @@
+{
+    "%vlocity_namespace%__CalculationMatrixId__c": {
+        "Name": "calc_matrix_test",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrix__c/calc_matrix_test",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrix__c"
+    },
+    "%vlocity_namespace%__CalculationMatrixId__r.Name": "calc_matrix_test",
+    "%vlocity_namespace%__CalculationMatrixRow__c": "calc_matrix_test_Version_Rows.json",
+    "%vlocity_namespace%__CurrentStatus__c": "Active",
+    "%vlocity_namespace%__EndDateTime__c": "",
+    "%vlocity_namespace%__GlobalKey__c": "calc_matrix_test V1",
+    "%vlocity_namespace%__Priority__c": 1,
+    "%vlocity_namespace%__StartDateTime__c": "2018-12-04T08:53:25.000Z",
+    "%vlocity_namespace%__VersionNumber__c": 1,
+    "Name": "calc_matrix_test V1",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/calc_matrix_test"
+}
